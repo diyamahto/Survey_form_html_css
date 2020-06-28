@@ -1,0 +1,15 @@
+{
+    "name": "Covid-19_Survey_Form_Template",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "DELL",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
